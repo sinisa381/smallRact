@@ -1,0 +1,8 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  /* background: linear-gradient(to right, #0ccac4 0%, rgba(0, 128, 128, 1) 100%); */
+  background: #0ccac4;
+  overflow-y:hidden;
+}
